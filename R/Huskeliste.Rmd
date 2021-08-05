@@ -11,5 +11,6 @@ knitr::opts_chunk$set(echo = TRUE)
 
 - Huske at finde ud af hvordan man ændre github profil i Rstudio.
   - kig nærmere på [siden](https://stackoverflow.com/questions/39435240/rstudio-changing-origin-for-git-version-control-of-project)
+- Se på hvorfor Peter ikke kan se min branch i hans remote.
 
 
