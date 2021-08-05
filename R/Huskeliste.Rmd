@@ -1,0 +1,15 @@
+---
+title: "Huskeliste"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## Huskeseddel
+
+- Huske at finde ud af hvordan man ændre github profil i Rstudio.
+  - kig nærmere på [siden](https://stackoverflow.com/questions/39435240/rstudio-changing-origin-for-git-version-control-of-project)
+
+
