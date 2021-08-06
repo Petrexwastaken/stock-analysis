@@ -1,0 +1,41 @@
+---
+title: "Peters noter"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## Find 5 aktier
+
+## Kig efter
+
+Når du vælger dine aktier skal du kigger efter følgende ting:
+
+1) Læs om hvad virksomheden gør og laver.
+2) Se på [euroinvestor](https://www.euroinvestor.dk/) og [yahoo](https://finance.yahoo.com/) til at se på grafer og hvor meget de er steget og falder over tid.
+3) Se på `Turorial.rmd` for at køre python scipt til at se SMA analyse.
+  - Tag fat i Lucas for at se om scriptet kan køre. 
+
+### Aktie 1: Astralis
+
+Astrilis er en organisation der der berømte indenfor gaming.
+
+### Aktie 2: Ethereum
+
+Ethereum er en kryptovaluta ...
+
+### Aktie 3
+
+note
+
+### Aktie 4
+
+note
+
+### Aktie 5
+
+note
+
+

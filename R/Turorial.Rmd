@@ -22,10 +22,11 @@ import seaborn as sns
 import matplotlib.pyplot as plt
 ```
 
+## Indlæs Data
 
 ```{python}
 #extracting data from Yahoo Finance API
-tickers = ['NOVO-B.CO','MAERSK-B.CO']
+tickers = ['NOVO-B.CO','MAERSK-B.CO', 'ASTRLS.CO']
 all_data = pd.DataFrame()
 test_data = pd.DataFrame()
 no_data = []
@@ -55,7 +56,7 @@ all_data['SMA_ratio'] = all_data['SMA_15'] / all_data['SMA_5']
 ```{python}
 stock_analysis = 'NOVO-B.CO'
 start_date = '2020-06-01'
-end_date = '2021-08-5'
+end_date = pd.Timestamp.today()
 
 #Plotting
 start = dt.datetime.strptime(start_date, '%Y-%m-%d')
