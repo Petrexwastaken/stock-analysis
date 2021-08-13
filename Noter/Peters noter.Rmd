@@ -3,9 +3,9 @@ title: "Peters noter"
 output: html_document
 ---
 
-```{r setup, include=FALSE}
+{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
-```
+
 
 ## Find 5 aktier
 
@@ -15,27 +15,30 @@ Når du vælger dine aktier skal du kigger efter følgende ting:
 
 1) Læs om hvad virksomheden gør og laver.
 2) Se på [euroinvestor](https://www.euroinvestor.dk/) og [yahoo](https://finance.yahoo.com/) til at se på grafer og hvor meget de er steget og falder over tid.
-3) Se på `Turorial.rmd` for at køre python scipt til at se SMA analyse.
+3) Se på Turorial.rmd for at køre python scipt til at se SMA analyse.
   - Tag fat i Lucas for at se om scriptet kan køre. 
 
 ### Aktie 1: Astralis
 
-Astrilis er en organisation der der berømte indenfor gaming.
+Astrilis er en organisation der der berømte indenfor gaming. Især CSGO
 
-### Aktie 2: Ethereum
+### Aktie 2: AP Møller Mærsk B
 
-Ethereum er en kryptovaluta ...
+Mærsk B er en industi som primært operer med olie, naturgas, transport og daglig varer.
 
-### Aktie 3
+### Aktie 3: Novo Nordisk
 
-note
+Novo Nordisk er en medicinalvirksomhed som fremstiller insuliner, GLP-1-analog (medecin mod diabetes), glucagon(hormon som bliver udskillet fra blodet når man har lavt blodsukker), blødermedicin(???), væksthormon og kønshormoner.
 
-### Aktie 4
-
-note
-
-### Aktie 5
+### Aktie Bitcoin
 
 note
 
+### Aktie Ethereum
+
+note
+Euroinvestor
+Euroinvestor - Aktier, markeder, nyheder, debat og podcast
+Yahoo Finance - Stock Market Live, Quotes, Business & Finance News
+At Yahoo Finance, you get free stock quotes, up-to-date news, portfolio management resources, international market data, social interaction and mortgage rates that help you manage your financial life.
 
